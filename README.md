@@ -1,2 +1,2 @@
 # RSAAlgorithm
-lab1 Securitatea Informationala
+Securitatea Informationala lab 1
