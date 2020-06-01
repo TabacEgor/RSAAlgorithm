@@ -1,2 +1,2 @@
 # RSAAlgorithm
-Securitatea Informationala lab 1
+UTM Lab Securitatea Informationala
